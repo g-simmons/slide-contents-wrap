@@ -1,0 +1,7 @@
+name: RevealSlideContentsWrap
+script: slide-contents-wrap.js
+stylesheet: ["slide-contents-wrap.css"]
+# self-contained: false
+# config:
+#   chalkboard:
+#     buttons: true
